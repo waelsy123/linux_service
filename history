@@ -1,0 +1,336 @@
+    1  apt-get install vim
+    2  apt-get install reaver
+    3  apt-get install vlc
+    4  echo "1" > /1
+    5  cat /1 
+    6  apt-get install resiprocate-turn-server
+    7  apt-get update
+    8  apt-get install resiprocate-turn-server
+    9  apt-get remove resiprocate-turn-server
+   10  uname -a
+   11  tar xvfz turnserver*.tar.gz
+   12  cd turnserver-4.5.0.6
+   13  ./configure 
+   14  apt-get install ginstall 
+   15  apt-get update 
+   16  uname -a
+   17  apt install coturn
+   18  vim install coturn
+   19  apt-get install coturn
+   20  apt-get autoremo
+   21  apt-get autoremove
+   22  apt-get install coturn
+   23  apt-get remove coturn
+   24  apt-get install coturn
+   25  vim /etc/turnserver.conf 
+   26  turnserver -v
+   27  apt-get install xserver
+   28  apt-get install xserver-org*
+   29  apt-get install xserver-xorg*
+   30  apt-get install x.org
+   31  fg
+   32  cd /opt/
+   33  ls
+   34  mkdir apps
+   35  cd apps/
+   36  git  clone https://github.com/muaz-khan/RTCMultiConnection.git
+   37  apt-get install git
+   38  git  clone https://github.com/muaz-khan/RTCMultiConnection.git
+   39  cd RTCMultiConnection/
+   40  ls
+   41  node server.js 
+   42  apt-get install nodejs
+   43  node server.js 
+   44  apt-get install node
+   45  node
+   46  apt-get install -y nodejs
+   47  nodejs 
+   48  nodejs server.js 
+   49  npm 
+   50  apt-get install npm
+   51  npm install --production
+   52  node server.js 
+   53  nodejs server.js 
+   54  vim server.js 
+   55  nodejs server.js 
+   56  vim server.js 
+   57  nodejs server.js 
+   58  ls /etc/cert/
+   59  ls /etc/ssl/certs/
+   60  apt-get install nginx
+   61  ls /etc/ssl/certs/
+   62  ls /etc/ssl/private/
+   63  ls /etc/ssl/openssl.cnf 
+   64  cat /etc/ssl/openssl.cnf 
+   65  ls /etc/ssl/certs/
+   66  ls /etc/ssl/certs/thawte_Primary_Root_CA_-_G2.pem 
+   67  ls /etc/ssl/certs/thawte_Primary_Root_CA_-_G2.pem  -na 
+   68  nodejs server.js 
+   69  vim server.js 
+   70  cd ..
+   71  rm -rf Rt
+   72  rm -rf RTCMultiConnection/
+   73  git  clone https://github.com/muaz-khan/RTCMultiConnection.git
+   74  cd RTCMultiConnection/
+   75  npm install --production
+   76  vim server.js 
+   77  cat /etc/ssl/certs/
+   78  cat /etc/ssl/certs/
+   79  cat /etc/ssl/private/ssl-cert-snakeoil.key 
+   80  vim server.js 
+   81  nodejs server.js 
+   82  cat server.js 
+   83  vim server.js 
+   84  cat server.js 
+   85  nodejs server.js 
+   86  vim server.js 
+   87  nodejs server.js 
+   88  turnserver -v
+   89  cd /opt/apps/RTCMultiConnection/
+   90  ls
+   91  nodejs server.js 
+   92  ls 
+   93  turnserver -v
+   94  cd /opt/shared/webroot/ROOT
+   95  cat /etc/hosts
+   96  openss
+   97  cd /opt/apps/
+   98  ls
+   99  cd RTCMultiConnection/
+  100  ls
+  101  nodejs server.js 
+  102  vim server.js 
+  103  nodejs server.js 
+  104  vim server.js 
+  105  nodejs  server.js 
+  106  nodejs -v
+  107  nodejs  server.js 
+  108  curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+  109  sudo apt-get install -y nodejs
+  110  sudo apt-get install -y node
+  111  apt-get update 
+  112  sudo apt-get install -y node
+  113  sudo apt-get install -y nodejs
+  114  sudo apt-get install -y build-essential
+  115  curl --silent --location https://rpm.nodesource.com/setup_6.x | bash -
+  116  apt-get install bash
+  117  curl --silent --location https://rpm.nodesource.com/setup_6.x | bash 
+  118  apt-get install curl
+  119  curl --silent --location https://rpm.nodesource.com/setup_6.x | bash -
+  120  node 
+  121  nodejs -v
+  122  nodejs  server.js 
+  123  cd /etc/ssl/
+  124  l
+  125  cd private/
+  126  cat ssl-cert-snakeoil.key 
+  127  cd ..
+  128  ls
+  129  cd certs/
+  130  ls
+  131  ls -na 
+  132  cat ca-certificates.crt 
+  133  vim ca-certificates.crt 
+  134  vim ../private/ssl-cert-snakeoil.key 
+  135  ls *.crt
+  136  openssl x509 -noout -modulus -in ca-certificates.crt 
+  137  openssl x509 -noout -modulus -in ca-certificates.crt | openssl md5
+  138  openssl x509 -noout -modulus -in ../private/ssl-cert-snakeoil.key | openssl md5
+  139  openssl x509 -noout -modulus -in *.pem | openssl md5
+  140  openssl x509 -noout -modulus -in *.crt | openssl md5
+  141  openssl x509 -noout -modulus -in thawte_Primary_Root_CA_-_G3.pem | openssl md5
+  142  openssl x509 -noout -modulus -in *.pem | openssl md5
+  143  openssl x509 -noout -modulus -in *.pem 
+  144  openssl x509 -noout -modulus -in ACEDICOM_Root.pem | openssl md5
+  145  cat /var/www/html/index.html 
+  146  cat /var/www/html/
+  147  cat /var/www/html/index.html 
+  148  cat /etc/httpd
+  149  cat /etc/apache2/apache2.conf 
+  150  cat /etc/apache2/sites-enabled/
+  151  cat /etc/apache2/sites-enabled/000-default.conf 
+  152  cat /etc/apache2/conf-enabled/security.conf 
+  153  cat /etc/apache2/conf-enabled/* | egrep SSLCertificateFile
+  154  cat /etc/apache2/*/* | egrep SSLCertificateFile
+  155  cat -n /etc/apache2/*/* | egrep SSLCertificateFile
+  156  cat -n /etc/apache2/*/* /dev/null | egrep SSLCertificateFile
+  157  cat -n /etc/apache2/*/* > a
+  158  cat a -n | egrep SSLCertificateFile
+  159  vim a 
+  160  grep -rnw '/etc/apache2/*/*' -e 'SSLCertificateFile'
+  161  grep -rnw '/etc/apache2/* -e 'SSLCertificateFile'
+  162  '
+  163  grep -rnw /etc/apache2/* -e 'SSLCertificateFile'
+  164  vim /etc/apache2/sites-available/default-ssl.conf 
+  165  cd 
+  166  turnserver -v
+  167  # Install Node.js 6.x repository
+  168  curl -sL https://deb.nodesource.com/setup_6.x | bash -
+  169  # Install Node.js and npm
+  170  apt-get install -y nodejs
+  171  node -v
+  172  cd /opt/apps/
+  173  cd RTCMultiConnection/
+  174  node server.js 
+  175  kill 16879
+  176  node server.js 
+  177  fg
+  178  turnserver -v
+  179  cd /opt/apps/RTCMultiConnection/
+  180  node server.js 
+  181  kill 18526
+  182  node server.js 
+  183  cat server.js 
+  184  forever
+  185  apt-get install forever
+  186  apt-get update 
+  187  apr-get isntall forever 
+  188  apt-get isntall forever 
+  189  apt-get install forever 
+  190  forever 
+  191  cd ..
+  192  mv RTCMultiConnection/ webrtc_signaling
+  193  ls
+  194  vim /etc/init.d/webrtc_signaling
+  195  sudo serv
+  196  service webrtc_signaling start
+  197  ls /etc/init.d/
+  198  update-rc.d webrtc_signaling enable
+  199  service webrtc_signaling start
+  200  update-rc.d
+  201  service webrtc_signaling start
+  202  update-rc.d webrtc_signaling enable
+  203  cd /etc/init.d/
+  204  update-rc.d webrtc_signaling enable
+  205  /etc/init.d/webrtc_signaling  start
+  206  audo /etc/init.d/webrtc_signaling  start
+  207  sudo /etc/init.d/webrtc_signaling  start
+  208  ls -na
+  209  cat README 
+  210  ls /opt/apps/
+  211  apt-get update
+  212  $ sudo apt-get install software-properties-common
+  213  $ sudo add-apt-repository ppa:certbot/certbot
+  214  $ sudo apt-get update
+  215  sudo apt-get install software-properties-common
+  216  sudo apt-get update
+  217  apt-get install certbot 
+  218  sudo certbot certonly --webroot -w /opt/apps/webrtc_signaling/ -d www.vds43994-env-61814791.unicloud.pl -d vds43994-env-61814791.unicloud.pl 
+  219  sudo certbot certonly --webroot -w /opt/apps/webrtc_signaling/ -d www.vds43994-env-61814791.unicloud.pl:8080 -d vds43994-env-61814791.unicloud.pl:8080 
+  220  sudo certbot certonly --webroot -w /opt/apps/webrtc_signaling/ -d www.vds43994-env-61814791.unicloud.pl -d vds43994-env-61814791.unicloud.pl 
+  221  sudo certbot certonly --webroot -w /opt/apps/webrtc_signaling/ -d vds43994-env-61814791.unicloud.pl 
+  222  cat /etc/letsencrypt/live/vds43994-env-61814791.unicloud.pl/README 
+  223  ls /etc/letsencrypt/live/vds43994-env-61814791.unicloud.pl/
+  224  ls /etc/letsencrypt/live/vds43994-env-61814791.unicloud.pl/ -na
+  225  cd /opt/apps/webrtc_signaling/
+  226  node server.js 
+  227  vim server.js 
+  228  npm install http-server -g
+  229  http-server
+  230  http-server -h
+  231  http-server -p 80
+  232  http-server
+  233  netstat -tulpn
+  234  apt-get remove apache
+  235  apt-get remove apache2
+  236  netstat -tulpn
+  237  http-server -p 80
+  238  vim server.js 
+  239  node server.js 
+  240  ls config.json 
+  241  cat config.json 
+  242  vim config.json 
+  243  node server.js 
+  244  mv demos/ bkpsdemos/
+  245  node server.js 
+  246  git add .
+  247  git init
+  248  git add .
+  249  service webrtc_signaling start
+  250  cd  /etc/systemd/system
+  251  ls
+  252  vim webrtc_signaling.service
+  253  cd 
+  254  systemd --user enable webrtc_signaling
+  255  systemd --user enable webrtc_signaling start
+  256  systemd  enable webrtc_signaling start
+  257  systemd  enable webrtc_signaling enable
+  258  systemd  webrtc_signaling enable
+  259  service webrtc_signaling start
+  260  service webrtc_signaling start -v
+  261  cd  /etc/systemd/system
+  262  vim webrtc_signaling.service
+  263  service webrtc_signaling start
+  264  systemctl daemon-reload
+  265  service webrtc_signaling start
+  266  ls /var/log/we*
+  267  echo '' > /var/log/webrtc_signaling
+  268  update-rc.d webrtc_signaling enable
+  269  update-rc.d webrtc_signaling defaults
+  270  cat /etc/init.d/webrtc_signaling 
+  271  cat /etc/init.d/ssh 
+  272  cat /etc/init.d/webrtc_signaling 
+  273  cat /etc/init.d/coturn 
+  274  vim /etc/init.d/coturn 
+  275  du -h <dir> | grep '[0-9\.]\+G'
+  276  ls /
+  277  ls / -na
+  278  du -h / | grep '[0-9\.]\+G'
+  279  cd /opt/apps/
+  280  du -h /opt/apps/webrtc_signaling/ | grep '[0-9\.]\+G'
+  281  du -h /opt/apps/webrtc_signaling/* | grep '[0-9\.]\+G'
+  282  du -h /opt/apps/webrtc_signaling/* 
+  283  du -h /opt/apps/webrtc_signaling/* | grep '[0-9\.]\+M'
+  284  ls webrtc_signaling/core.16221 
+  285  cat webrtc_signaling/core.16221 
+  286  mv webrtc_signaling/core.* ./
+  287  ls
+  288  sudo service webrtc_signaling stop
+  289  sudo service webrtc_signaling start
+  290  mkdir core
+  291  mv core* core/
+  292  mv core bkpcore
+  293  mv core* bkpcore/
+  294  ls
+  295  ls bkpcore/
+  296  rm -rf bkpcore/
+  297  cd /opt/apps/
+  298  ls
+  299  git 
+  300  git log
+  301  cd webrtc_signaling/
+  302  git log
+  303  git add .
+  304  git commit -m 'updates'
+  305  git push 
+  306  cat config.json 
+  307  git remote add webrtc_signaling
+  308  git remote add webrtc_signaling https://github.com/waelsy123/rtcSignalingServer.git
+  309  git push webrtc_signaling master
+  310  git push webrtc_signaling master -f
+  311  cd ..
+  312  git init 
+  313  git remote add webrtc_signaling https://github.com/waelsy123/rtcSignalingServer.git
+  314  git push webrtc_signaling master -f
+  315  git add .
+  316  git commit -m 'first'
+  317  git push webrtc_signaling master -f
+  318* cd webrtc_signaling/
+  319  git add .
+  320  git commit -m 'first'
+  321  git push webrtc_signaling master -f
+  322  git username
+  323  git
+  324  git config --global user.name
+  325  git config --global user.name "Wael Almattar"
+  326  git config --global user.email "waelsy123@gmail.com"
+  327  git push webrtc_signaling master -f
+  328  git add . 
+  329  git config
+  330  git config -l
+  331  cd 
+  332  mkdir linux_service
+  333  cp /etc/init.d/webrtc_signaling linux_service/
+  334  history 
+  335  cp /etc/systemd/system/webrtc_signaling.service linux_service/
+  336  history > linux_service/history
